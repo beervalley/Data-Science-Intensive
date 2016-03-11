@@ -1,41 +1,42 @@
 # Data-Science-Intensive
 A 12 weeks of intensive data science training process for becoming a data scientist
 
-Unit 1:
-Programming Tools: Python, iPython Notebook, matplotlib, Pandas, Git/Github
+Unit 1: Programming Tools 
 
-Unit 2:
-Deep Dive into Pandas for Data Wrangling
+•	Python, iPython Notebook, matplotlib, Pandas, Git/Github
 
-Data in files: Work with a variety of sources from unstructured/semi-structured text files (.txt) to delimited/structured/nested format files like excel, csv, json, xml etc.
+Unit 2: Deep Dive into Pandas for Data Wrangling
 
-Data in Databases: Get an overview of relational and NoSQL databases and practice data manipulation with SQL.
+•	Data in files: Work with a variety of sources from unstructured/semi-structured text files (.txt) to delimited/structured/nested format files like excel, csv, json, xml etc.
+
+•	Data in Databases: Get an overview of relational and NoSQL databases and practice data manipulation with SQL.
 
 Unit 3: Inferential Statistics
-Theory and application of inferential statistics
+•	Theory and application of inferential statistics
 
-Parameter estimation
+•	Parameter estimation
 
-Hypothesis testing
+•	Hypothesis testing
 
-Statistical significance
+•	Statistical significance
 
-Correlation and regression
+•	Correlation and regression
 
-A/B Testing
+•	A/B Testing
 
 Unit 4: Machine Learning
-Scikit-learn
 
-Supervised and unsupervised learning
+•	Scikit-learn
 
-Naive Bayes, SVM, Decision trees, Regression, clustering, recommender systems
+•	Supervised and unsupervised learning
 
-Advice for applying machine learning
+•	Naive Bayes, SVM, Decision trees, Regression, clustering, recommender systems
 
-Dimensionality reduction
+•	Advice for applying machine learning
 
-Validation and evaluation of machine learning
+•	Dimensionality reduction
+
+•	Validation and evaluation of machine learning
 
 
 
