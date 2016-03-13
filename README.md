@@ -27,7 +27,12 @@ Unit 4: Machine Learning
 
 •	Validation and evaluation of machine learning
 
+Unit 5: Capstone Project
 
+•	Created a fast pipeline to process a large dataset with more than 14o,000 data records and 1,900 features.
+•	Converted categorical and timestamp features into numerical data, and applied statistical analysis, data cleaning, feature selection on the data.
+•	Built and validated different machine learning models using Pandas, Numpy, and Scikit-learn.
+•	Evaluated the final model and achieved good performance with AUC score.
 
 
 
