@@ -29,7 +29,7 @@ Unit 4: Machine Learning
 
 Unit 5: Capstone Project
 
-•	Created a fast pipeline to process a large dataset with more than 14o,000 data records and 1,900 features.
+•	Created a fast pipeline to process a large dataset with more than 140,000 data records and 1,900 features.
 
 •	Converted categorical and timestamp features into numerical data, and applied statistical analysis, data cleaning, feature selection on the data.
 
